@@ -12,7 +12,7 @@
 </p>
 
 <!--   my-header-img -->
-![](./src/header_banner.jpg)
+![](./src/header_banner.gif)
 
 
 <!-- typing svg removed -->
