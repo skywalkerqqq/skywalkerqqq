@@ -136,45 +136,6 @@ me = AIEngineer()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🤖 Project | 📝 Description | ⚡ Stack |
-|:-----------|:---------------|:---------|
-| **[Project Alpha](https://github.com/skywalkerqqq/project-alpha)** | Distributed LLM inference with dynamic batching | `Python` `CUDA` `Ray` |
-| **[NeuroVault](https://github.com/skywalkerqqq/neurovault)** | Vector database optimized for embedding search | `Rust` `gRPC` `SIMD` |
-| **[AgentForge](https://github.com/skywalkerqqq/agentforge)** | Multi-agent framework with tool-use & memory | `Python` `LangChain` `Redis` |
-| **[ModelZoo](https://github.com/skywalkerqqq/modelzoo)** | Curated collection of fine-tuned models | `PyTorch` `HF` `ONNX` |
-
-</div>
-
----
-
-## 🎧 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00ff41)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
-
-</div>
-
----
-
-## 📡 Comms Channel Open
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=aboutdotme&logoColor=black&labelColor=1a1a2e)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a2e)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a2e)](https://linkedin.com/in/skywalkerqqq)
-[![Twitter/X](https://img.shields.io/badge/X-00ff41?style=for-the-badge&logo=x&logoColor=black&labelColor=1a1a2e)](https://x.com/skywalkerqqq)
-[![Blog](https://img.shields.io/badge/Blog-00ff41?style=for-the-badge&logo=hashnode&logoColor=black&labelColor=1a1a2e)](https://your-blog.com)
-
-</div>
-
----
-
 <div align="center">
 
 ```
@@ -191,22 +152,4 @@ me = AIEngineer()
 
 ---
 
-<!-- 
-  ⚡ SETUP INSTRUCTIONS ⚡
-  
-  1. 创建名为 skywalkerqqq 的 GitHub 仓库（替换成你实际的 GitHub 用户名）
-  2. 将此 README.md 放到该仓库根目录
-  3. 全局替换 skywalkerqqq 为你的 GitHub 用户名
-  4. 替换 YOUR_SPOTIFY_USER 为你的 Spotify 用户名（可选）
-  5. 替换邮箱、社交媒体链接
-  6. 修改 About Me 部分的 Python 类信息
-  
-  🐍 要启用 Contribution Snake：
-  - 参考 https://github.com/Platane/snk 设置 GitHub Action
-  - 在仓库中创建 .github/workflows/snake.yml
-  
-  🎵 要启用 Spotify 卡片：
-  - 参考 https://github.com/novatorem/novatorem 部署 Vercel 服务
-  
-  所有统计卡片使用暗色赛博风主题（#00ff41 霓虹绿 + #0d1117 深黑背景）
--->
+<!-- 🐍 Snake: .github/workflows/snake.yml | Theme: #00ff41 cyberpunk -->
