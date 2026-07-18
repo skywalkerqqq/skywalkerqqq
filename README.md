@@ -16,8 +16,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Skywalker;+Welcome+to+My+Profile!;Over+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;AI+Engineer+)](https://git.io/typing-svg)
+<!-- typing svg removed -->
 
 
 <!--   my-skils -->
@@ -36,38 +35,14 @@
 
 <!--   green snake -->
 ![skywalkerqqq's github activity graph](https://raw.githubusercontent.com/skywalkerqqq/skywalkerqqq/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![skywalkerqqq's github stats](https://github-readme-stats.vercel.app/api?username=skywalkerqqq&show_icons=true&theme=radical&include_all_commits=true) | ![skywalkerqqq's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalkerqqq&theme=radical&layout=compact) |
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skywalkerqqq"></img>
-
-<!-- dark snake removed -->
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/skywalkerqqq/skywalkerqqq/blob/output/github-contribution-grid-snake.svg) -->
 
 
 **📫 How to Reach me:**
 <p align="left">
-<!-- 在此添加你的社交链接 -->
 <a href="https://github.com/skywalkerqqq" target="blank"><img src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
 
 
 ![](assets/Bottom_down.svg)
