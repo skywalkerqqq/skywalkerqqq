@@ -16,8 +16,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="./src/roxy_banner.jpg" alt="Roxy's World" width="180"></td>
     <td><b>Welcome to Roxy's World</b></td>
+    <td><img src="./src/roxy_banner.jpg" alt="Roxy's World" width="180"></td>
   </tr>
 </table>
 
