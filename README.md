@@ -14,12 +14,12 @@
 <!--   my-header-img -->
 ![](./src/header_banner.gif)
 
-<p align="center">
-  <img src="./src/roxy_banner.jpg" alt="Roxy's World">
-</p>
-<p align="center">
-  <b>Welcome to Roxy's World</b>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="./src/roxy_banner.jpg" alt="Roxy's World" width="180"></td>
+    <td><b>Welcome to Roxy's World</b></td>
+  </tr>
+</table>
 
 <!-- typing svg removed -->
 
